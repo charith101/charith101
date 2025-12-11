@@ -119,14 +119,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=charith101&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=charith101&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=charith101&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)   
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=charith101.charith101&" height="40"  />
-</div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
